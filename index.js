@@ -1,2 +1,2 @@
 // Write your code here!
-element.classList.remove('main')
+document.querySelector('main#main')
